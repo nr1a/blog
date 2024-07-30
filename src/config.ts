@@ -15,7 +15,7 @@ export const siteConfig: SiteConfig = {
     fixed: true,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: true,
+    enable: false,
     src: 'https://r2-lo.nr1a.inc/files/784c2b08-b475-43b6-b0c2-4ee8b48c9113.webp',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center', // Equivalent to object-position, defaults center
     credit: {
