@@ -68,6 +68,6 @@ export const profileConfig: ProfileConfig = {
 
 export const licenseConfig: LicenseConfig = {
   enable: true,
-  name: 'CC BY-NC-SA 4.0',
-  url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+  name: 'All Rights Reserved',
+  url: 'https://blog.nr1a.inc/posts/license/',
 }
