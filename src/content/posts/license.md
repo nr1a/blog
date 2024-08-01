@@ -11,7 +11,7 @@ draft: false
 
 ## License Terms
 
-This blog and its content are protected by copyright law. All rights to the content are reserved by the author. No part of this content may be used, reproduced, modified, or distributed without explicit permission from the author.
+This blog and its content are protected by the copyright law. All rights to the content are reserved by the author. No part of this content may be used, reproduced, modified, or distributed without explicit permission from the author.
 
 - **Commercial Use**: Not permitted.
 - **Modification**: Not permitted.
